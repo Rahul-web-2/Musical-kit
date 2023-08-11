@@ -8,7 +8,7 @@ h2{
     color: white;
     text-shadow:10px 2px yellowgreen;
 }
-.drum{
+.drum, .key{
     outline: none;
     border: 10px solid #404B69;
     font-size: 5rem;
